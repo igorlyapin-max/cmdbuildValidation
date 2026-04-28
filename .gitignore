@@ -1,0 +1,9 @@
+.env
+.env.local
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+.codex
+AGENTS.md
+Screenshot From *.png
